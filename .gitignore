@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# SQLite runtime files
+greenroute_history.db
+greenroute_history.db-*
+*.sqlite
+*.sqlite-*
+.venv/
+
+.vscode/
